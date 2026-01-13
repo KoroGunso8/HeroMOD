@@ -36,24 +36,51 @@ message_6:
     text: \n<HERO> ???
 
 message_7:
-    text:
+    faceset: MainCharacter_Basil_dark
+    faceindex: 31
+    text: \n<HERO>(It's hard to believe that she was be able to get in this college with this such a young age)
 
 message_8:
-    faceset: Maincharacters_Faraway
-    faceindex: 32
+    faceset: MainCharacter_Basil_dark
+    faceindex: 30
     text: \n<HERO>Not my first time seeing Mari
 
 message_9: 
-    faceset: Maincharacters_Faraway
-    faceindex: 31
-    text: \n<HERO>This door is also locked.
+    faceset: MainCharacter_Basil_dark
+    faceindex: 15
+    text: \n<HERO>This door is locked.
 
 message_10:
-    faceset: MainCharacters_Faraway
-    faceindex: 31
+    faceset: MainCharacter_Basil_dark
+    faceindex: 15
     text: \n<HERO>This one is locked too
 
 message_11:
-      faceset: MainCharacters_Faraway
-      faceindex: 31
-      text: \n<HERO>Huh? The door is locked, I just get out of this room
+      faceset: MainCharacter_Basil_dark
+      faceindex: 15
+      text: \n<HERO>There are no reason for me to get back there
+      
+message_12:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: \n<HERO>No problem Kim.
+      
+message_13:
+      text: \n<KIM>Oh hey Hero, our campus is having breakout.
+
+message_14:
+      text: \n<KIM>Lucky that I have finished my math homework
+      
+message_15:
+      text: \n<KIM>By the way, I appreciate that you helped me with STEM project
+      
+message_16:
+      text: \n<KIM>It's dark right now, you should back to your dorm
+      
+message_17:
+      text: \n<KIM>You shouldn't get in there, it's dark.
+      
+message_18:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 15
+      text: \n<HERO>There are no reason for me to go back there
