@@ -6,6 +6,8 @@
          "id":1,
          "image":"",
          "name":"REFERENCE",
+         "offsetx":-43.3082706766909,
+         "offsety":86.6165413533836,
          "opacity":1,
          "type":"imagelayer",
          "visible":true,
