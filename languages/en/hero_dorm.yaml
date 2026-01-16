@@ -23,10 +23,12 @@ message_3:
     text: \n<HERO>I’m exhausted, but I can’t sleep right now
 
 message_4:
-    text:
+    faceset: MainCharacter_Basil_dark
+    faceindex: 29
+    text: \n<HERO>Who is it???
 
 message_5:
-    text:
+    text: \n<HERO>There is no reason for me to go outside
 
 message_6:
     text:
