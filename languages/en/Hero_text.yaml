@@ -18,14 +18,14 @@ message_1:
 #sign text 
 
 message_2:
-    text: On a sunny day, the white snow can be blinding\!<br> Do not avert your eyes
+    text: On a sunny day, the white snow can be blinding\!Do not avert your eyes
 
 #Mari and Hero first convo
 
 message_3: 
     faceset: 05_MainCharacter_HeroMari
     faceindex: 30
-    text: Oh, Hero! You finally came!\! I was getting worried.\mar
+    text: Oh, Hero! You finally came!\!I was getting worried.\mar
 
 message_4:
     faceset: 05_MainCharacter_HeroMari
@@ -35,12 +35,12 @@ message_4:
 message_5:
     faceset: 06_MainCharacter_TheRest
     faceindex: 1
-    text: Of course I did!\! I wouldnt leave after you invited me.\mar
+    text: Of course I did!\!I wouldnt leave after you invited me.\mar
 
 message_6:
     faceset: 05_MainCharacter_HeroMari
     faceindex: 24
-    text: Right...\! And what did I invite you here to do again?\her
+    text: Right...\!And what did I invite you here to do again?\her
 
 message_7:
     faceset: 05_MainCharacter_HeroMari
@@ -60,7 +60,7 @@ message_9:
 message_10:
     faceset: 05_MainCharacter_HeroMari
     faceindex: 25
-    text: So, Mari... \!about that picnic...\her
+    text: So, Mari...\!about that picnic...\her
 
 message_11:
       faceset: 06_MainCharacter_TheRest
@@ -87,7 +87,7 @@ message_14:
 message_15: 
     faceset: 05_MainCharacter_HeroMari
     faceindex: 31
-    text: Who knows, \! maybe you'll fine some fun surprises along the way!\mar
+    text: Who knows,\!maybe you'll fine some fun surprises along the way!\mar
 
 # =========================================================================================
 # ** Diologue 1
@@ -122,7 +122,7 @@ message_19:
 message_20: 
     faceset: 06_MainCharacter_TheRest
     faceindex: 1
-    text: Make sure you're extra careful, hero!\!<br> I think I heard something moving around in the snow\mar
+    text: Make sure you're extra careful, hero!\!I think I heard something moving around in the snow\mar
 
 message_21: 
     faceset: 05_MainCharacter_HeroMari
@@ -134,90 +134,97 @@ message_22:
     faceindex: 30
     text: No need to worry about me.\!They're no match for me and my basket!\mar
 
+#Digging puzzle
 
+#Diologue 1 Spiders
 
+message_23:
+    text: You dig up a little mound of snow.
 
 message_24:
-    text: 
+    text: What looked to be darkness is actually a pile of swarming spiders.
 
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
-message_:
-    faceset:
-    faceindex:
-    text:
+message_25:
+    text: They crawl all over your feet and shovel.
 
+message_26:
+    faceindex: 05_MainCharacter_HeroMari
+    faceset: 19
+    text: ...!\her
+
+#Diologue 2 Mari's cookies!
+
+message_27:
+    text: You dig up the little mound of snow. 
+
+message_28:
+    text: Warmth pours from the shallow grave like an oven. 
+
+message_29:
+    text: You found MARI'S COOKIES.
+
+#Diologue 3 redacted item. At the snowman
+
+message_30:
+    text: You dig up the mound of snow.
+
+message_31:
+    text: Something squelches beneath your shovel. 
+
+message_32:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 22
+    text: ...!\her
+message_33:
+    text: Maybe you dug a bit too deep. 
+
+message_34:
+    text: You found ☐☐☐!
+
+#Diologue 4
+
+message_35:
+    text: You dig up the mound of snow.
+
+message_36:
+    text: But it's not a mound of snow at all!
+
+#player is attacked by snowmound LOL
+
+#gifting mari the cookies
+
+message_37:
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 1
+    text: Oh! What's this?\mar
+message_38:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 31
+    text: I see you found the cookies I made! Good for you!\mar
+
+message_39:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 31
+    text: Let's save them for the picnic, okay?\mar
+
+ #giving redacted item
+
+message_40:
+     faceset: 06_MainCharacter_TheRest
+     faceindex: 1
+     text: Oh! What's this?\mar
+
+message_41: 
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 2
+    text: No… really, Hero.\!What is this?\mar
+
+message_42:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 23
+    text: It's uh...\! I found it, and picked it out just\!for\!you!\her
+
+message_43:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 26
+    text: Do you not like it?\her
